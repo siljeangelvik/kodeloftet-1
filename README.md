@@ -9,3 +9,6 @@
 ## Resources
 
 - [Excalidraw](https://excalidraw.com/)
+- [Unsplash](https://unsplash.com/)
+- [SheCodes](https://www.shecodes.io/athena/1379-how-to-add-a-footer-with-html-and-css)
+- 
