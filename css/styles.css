@@ -1,0 +1,13 @@
+html, body {
+    font-family: sans-serif;
+}
+
+ul.menu, ul.menu > li {
+    list-style: none;
+    display: flex;
+}
+
+ul.menu {
+    gap: 15px;
+}
+
