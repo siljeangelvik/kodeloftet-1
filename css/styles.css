@@ -2,6 +2,10 @@ html, body {
     font-family: sans-serif;
 }
 
+header {
+    border: 1px solid green;
+}
+
 ul.menu, ul.menu > li {
     list-style: none;
     display: flex;
@@ -11,3 +15,22 @@ ul.menu {
     gap: 15px;
 }
 
+a {
+    color: darkolivegreen;
+    font-weight: bolder;
+    text-underline: darkolivegreen;
+}
+
+
+footer {
+    border: 1px solid green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    width: 100vw;
+}
+
+footer > p {
+    text-align: center;
+}
